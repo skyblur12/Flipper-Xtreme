@@ -1,4 +1,3 @@
-# Flipper firmware
 
 What does it do?
 
